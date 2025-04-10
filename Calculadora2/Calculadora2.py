@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
 
 """
-Título de práctica: Calculadora de operaciones básicas
+Título de práctica: Calculadora#2
 
 Descripción:
 Este programa permite al usuario realizar operaciones matemáticas básicas:
 suma, resta, multiplicación, división, potenciación, división entera y módulo.
 El usuario puede cancelar una operación escribiendo 'x'.
 
-Autor: TuNombre <tu@correo.com>
+Autor: Eimar Esteban Garcia Ramirez <eimarg522@gmail.com> 
 Fecha: 2025-04-10
 """
 
